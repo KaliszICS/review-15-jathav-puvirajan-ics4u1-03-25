@@ -3,9 +3,6 @@
 public class PracticeProblem {
 
 	public static void main(String args[]) {
-		System.out.println("\n\n");
-		goodString("pqr");
-		System.out.println("\n\n");
 	}
 	public static int goodString(String S){		
 		int minimumOperations = Integer.MAX_VALUE;
